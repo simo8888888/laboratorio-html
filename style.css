@@ -94,6 +94,6 @@ footer {
     color: #526174;
 }
 table,th,td {border:1px solid black;}
-caption {font-weight:bold; color: blue}
+caption {font-weight:bold; color: #808000}
 th {background-color: yellow;}
 td {text-alin: center;}
